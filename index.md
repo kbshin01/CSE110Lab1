@@ -6,7 +6,7 @@ This is a link to [my GitHub](https://github.com/kbshin01).
 
 I am from LA and and studying remotely for winter quarter of 2021 at UCSD. Studying computer science, sophomore year. :grinning:
 
-I have a dog and she is great!
+I have a dog and she is great! I like learning [languages](#other-languages) I am fluent in English and Korean and am trying to improve my Chinese.
 
 ![dog](https://user-images.githubusercontent.com/60720965/103718763-6a20b700-4f7c-11eb-8fd7-6d707341f114.PNG)
 
@@ -29,12 +29,15 @@ Kenneth Shin
 ### Programming Languages
 
 ```markdown
-- [x] Java
+- Java
   - learned in high school
-- [x] C/C++
+- C/C++
   - learned in college
-- [x] Python
+- Python
   - learned independently
-- [ ] HTML
-  - never got around to it
 ```
+
+### [Other Languages](https://www.duolingo.com/)
+- [x] English
+- [x] Korean
+- [ ] Chinese (getting there!)
