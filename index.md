@@ -6,6 +6,8 @@ This is a link to [my GitHub](https://github.com/kbshin01).
 
 I am from LA and and studying remotely for winter quarter of 2021 at UCSD. Studying computer science, sophomore year. :grinning:
 
+I have a ![dog](https://user-images.githubusercontent.com/60720965/103718763-6a20b700-4f7c-11eb-8fd7-6d707341f114.PNG) and she is great.
+
 (to show Markdown proficiency)
 
 *Kenneth Shin (in italics)*
