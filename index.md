@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Kenneth Shin
 
-You can use the [editor on GitHub](https://github.com/kbshin01/CSE110Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a link to [my GitHub](https://github.com/kbshin01).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+(to show Markdown proficiency)
+*Kenneth Shin (in italics)*
+**Kenneth Shin (in bold)**
+~~Kenneth Shin (strikethrough)~~
+and my name in quotes:
+> Kenneth Shin
+and `Kenneth Shin`
+and
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Kenneth Shin :+1:
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Programming Languages
 
-### Jekyll Themes
+These are the programming languages that I have learned:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kbshin01/CSE110Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```markdown
+- Java
+- C/C++
+- Python (not the ![snake](https://www.google.com/url?sa=i&url=https%3A%2F%2Finsights.dice.com%2F2019%2F12%2F16%2Fpython-top-programming-language-2019%2F&psig=AOvVaw22roonoyZy_v__Z1JPNi1c&ust=1609981294909000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiDrOyNhu4CFQAAAAAdAAAAABAD)
+```
