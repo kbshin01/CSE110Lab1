@@ -1,10 +1,10 @@
-## Kenneth Shin
+## [Kenneth Shin](#kenneth-shin)
 
 This is a link to [my GitHub](https://github.com/kbshin01).
 
 This is the link to the [file for this page](/index.md).
 
-### Misc
+### [Misc](#misc)
 
 I am from LA and and studying remotely for winter quarter of 2021 at UCSD. Studying computer science, sophomore year. :grinning:
 
@@ -28,7 +28,7 @@ I have a dog and she is great! I like learning [languages](#other-languages) I a
 Kenneth Shin
 ```
 
-### Programming Languages
+### [Programming Languages](#programming-languages)
 
 ```markdown
 - Java
