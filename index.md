@@ -3,13 +3,21 @@
 This is a link to [my GitHub](https://github.com/kbshin01).
 
 (to show Markdown proficiency)
+
 *Kenneth Shin (in italics)*
+
 **Kenneth Shin (in bold)**
+
 ~~Kenneth Shin (strikethrough)~~
+
 and my name in quotes:
+
 > Kenneth Shin
+
 and `Kenneth Shin`
+
 and
+
 ```markdown
 Kenneth Shin :+1:
 ```
