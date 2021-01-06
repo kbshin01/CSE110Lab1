@@ -2,6 +2,8 @@
 
 This is a link to [my GitHub](https://github.com/kbshin01).
 
+This is the link to the [file for this page](/index.md).
+
 ### Misc
 
 I am from LA and and studying remotely for winter quarter of 2021 at UCSD. Studying computer science, sophomore year. :grinning:
