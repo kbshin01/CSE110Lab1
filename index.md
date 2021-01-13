@@ -6,7 +6,7 @@ This is the link to the [file for this page](/index.md).
 
 ### [Misc](#misc)
 
-I am from LA and and studying remotely for winter quarter of 2021 at UCSD. Studying computer science, sophomore year. :grinning:
+I am from LA and am studying remotely for winter quarter of 2021 at UCSD. Studying computer science, sophomore year. :grinning:
 
 I have a dog and she is great! I like learning [languages](#other-languages) I am fluent in English and Korean and am trying to improve my Chinese.
 
